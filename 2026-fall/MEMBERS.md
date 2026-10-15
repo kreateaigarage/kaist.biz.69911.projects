@@ -70,6 +70,7 @@ Class members: see [How to add your row](#how-to-add-your-row) at the bottom of 
 |------|---------------|
 | 양대성 | [equipment0226.github.io](https://equipment0226.github.io) |
 | 배지열 | [jiyeolbae.github.io](https://jiyeolbae.github.io) |
+| 임태훈 | [kreateaigarage.github.io(https://kreateaigarage.github.io) |
 
 ## Team 10
 
